@@ -7,7 +7,4 @@ To build and run:
 
 ## Updated Instructions
 
-This line was added to simulate an update to an existing file.
-
-hello there
-# This is a change on the update/adding-extra-space
+This line was added to simulate an update to an existing file
