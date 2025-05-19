@@ -10,3 +10,5 @@ To build and run:
 This line was added to simulate an update to an existing file.
 
 ## test-demo3
+
+Test for demo 3
